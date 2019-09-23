@@ -1,4 +1,4 @@
-#Atomic Spectra Library
+# Atomic Spectra Library
 
 SPS2173 Atomic Spectra Library it converts the datalogger data into data
 that you can process in python or use the library to process it for you. 
